@@ -1,7 +1,8 @@
 ---
-vars_files: default.config.yml
+
 
 - name: Install packages
+  vars_files: default.config.yml
   package:
     name: "{{ item }}"
     state: present
