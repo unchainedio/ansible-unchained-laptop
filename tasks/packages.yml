@@ -9,7 +9,7 @@
       packages:
         - htop
         - zsh
-        -discord
+        - discord
 
 
 
