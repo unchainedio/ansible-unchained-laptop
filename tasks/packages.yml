@@ -5,11 +5,11 @@
   package:
     name: "{{ packages }}"
     state: present
-    vars:
-      packages:
-        - htop
-        - zsh
-        - discord
+  vars:
+    packages:
+      - htop
+      - zsh
+      - discord
 
 
 
