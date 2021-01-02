@@ -10,6 +10,34 @@
       - htop
       - zsh
       - discord
+      - brave
+      - clipit
+      - exodus
+      - firefox
+      - flameshot
+      - github-cli
+      - google-chrome
+      - keybase-gui
+      - keybase-zsh-completion-git
+      - mpv
+      - mutt
+      - nano
+      - neofetch
+      - neomutt
+      - newsboat
+      - popcorntime-bin
+      - simplescreenrecorder
+      - syncthing-gtk
+      - terminator
+      - timeshift
+      - viber
+      - vim
+      - vim-markdwon
+      - vim-ansible
+      - vifm
+      - telegram
+      - yubikey-agent
+      - yubioath-desktop
 
 
 
