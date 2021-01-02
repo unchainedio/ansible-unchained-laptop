@@ -35,7 +35,7 @@
       - vim-markdown
       - vim-ansible
       - vifm
-      - telegram
+      - telegram-desktop
       - yubikey-agent
       - yubioath-desktop
 
