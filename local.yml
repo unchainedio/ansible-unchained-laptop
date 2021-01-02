@@ -1,0 +1,12 @@
+- hosts: localhost
+  connection: local
+  become: true
+
+pre_tasks:
+  - name: update package cache
+    package: update_cache=yes cache_valid_time=3600
+    changed_when: False
+
+
+  tasks:
+    - include: tasks/packages.yml
