@@ -2,12 +2,14 @@
 
 
 - name: Install packages
-  vars_files:
-    - default.config.yml
   package:
-    name: "{{ item }}"
+    name: "{{ packages }}"
     state: present
-  with_items: "{{ installed_packages }}"
+    vars:
+      packages:
+        - htop
+        - zsh
+        -discord
 
 
 
