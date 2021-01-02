@@ -3,6 +3,9 @@
     name: "{{ item }}"
     state: present
   with_items:
-    - "{{ installed_packages }}"
+    - htop
+    - discord
+    - zsh
+
 
 
