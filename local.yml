@@ -2,8 +2,8 @@
   connection: local
   become: true
 
-  vars:
-    - installed_packages: [htop, zsh, discord]
+  #  vars:
+    # - installed_packages: [htop, zsh, discord]
 
   pre_tasks:
     - name: update package cache
