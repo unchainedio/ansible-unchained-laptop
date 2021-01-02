@@ -1,4 +1,4 @@
 - name: Install "{{ installed_packages }}"
   package:
     name:
-      - "{{ installed_packages }}"
+    with_items:  "{{ installed_packages }}"
