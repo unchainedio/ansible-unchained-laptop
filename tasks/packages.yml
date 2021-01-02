@@ -1,5 +1,4 @@
-- name: Install Packages
+- name: Install {{ installed_packages }}
   package:
     name:
-      - htop
-      - mc
+      - "{{ installed_packages }}"
