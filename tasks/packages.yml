@@ -2,4 +2,7 @@
   package:
     name: "{{ item }}"
     state: present
-  with_items: "{{ installed_packages }}"
+  with_items:
+    - htop
+    - discord
+
