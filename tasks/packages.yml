@@ -1,4 +1,4 @@
 - name: Install "{{ installed_packages }}"
   package:
-    name:
-    with_items:  "{{ installed_packages }}"
+    name: "{{ installed_packages }}"
+    state: present
