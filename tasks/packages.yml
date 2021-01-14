@@ -11,14 +11,14 @@
       - zsh
       - discord
       - brave
-      #- clipit
+      - clipit
       #- exodus
-      #- firefox
-      #- flameshot
-      #- github-cli
-      #- google-chrome
-      #- keybase-gui
-      #- keybase-zsh-completion-git
+      - firefox
+      - flameshot
+      - github-cli
+      - google-chrome
+      - keybase-gui
+      - keybase-zsh-completion-git
       - mpv
       - mutt
       - nano
@@ -35,7 +35,7 @@
       #- vim-markdown
       #- vim-ansible
       - vifm
-      #- telegram-desktop
+      - telegram-desktop
       #- yubikey-agent
       - yubioath-desktop
 
