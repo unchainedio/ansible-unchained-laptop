@@ -16,9 +16,9 @@
       - firefox
       - flameshot
       - github-cli
-      - google-chrome
+      #- google-chrome
       - keybase-gui
-      - keybase-zsh-completion-git
+      #- keybase-zsh-completion-git
       - mpv
       - mutt
       - nano
