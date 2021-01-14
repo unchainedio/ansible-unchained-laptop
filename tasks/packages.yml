@@ -36,7 +36,7 @@
       #- vim-ansible
       - vifm
       #- telegram-desktop
-      - yubikey-agent
+      #- yubikey-agent
       - yubioath-desktop
 
 
