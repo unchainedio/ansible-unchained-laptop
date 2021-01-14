@@ -11,31 +11,31 @@
       - zsh
       - discord
       - brave
-      - clipit
-      - exodus
-      - firefox
-      - flameshot
-      - github-cli
-      - google-chrome
-      - keybase-gui
-      - keybase-zsh-completion-git
+      #- clipit
+      #- exodus
+      #- firefox
+      #- flameshot
+      #- github-cli
+      #- google-chrome
+      #- keybase-gui
+      #- keybase-zsh-completion-git
       - mpv
       - mutt
       - nano
       - neofetch
       - neomutt
       - newsboat
-      - popcorntime-bin
+      #- popcorntime-bin
       - simplescreenrecorder
       - syncthing-gtk
       - terminator
       - timeshift
-      - viber
+      #- viber
       - vim
-      - vim-markdown
-      - vim-ansible
+      #- vim-markdown
+      #- vim-ansible
       - vifm
-      - telegram-desktop
+      #- telegram-desktop
       - yubikey-agent
       - yubioath-desktop
 
