@@ -25,6 +25,7 @@
       - neofetch
       - neomutt
       - newsboat
+      - udisks2
       #- popcorntime-bin
       - simplescreenrecorder
       - syncthing-gtk
